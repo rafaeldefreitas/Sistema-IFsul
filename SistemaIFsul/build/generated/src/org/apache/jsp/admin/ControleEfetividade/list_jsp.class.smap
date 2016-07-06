@@ -1,0 +1,28 @@
+SMAP
+list_jsp.java
+JSP
+*S JSP
+*F
++ 0 list.jsp
+admin/ControleEfetividade/list.jsp
++ 1 cabecalhoProf.jsp
+admin/ControleEfetividade/../cabecalhoProf.jsp
++ 2 rodape.jsp
+admin/ControleEfetividade/../rodape.jsp
+*L
+1,4:53
+1#1,4:56
+4,198:60
+4#0:257
+8,7:261
+14,36:268
+49,2:304
+50,3:306
+53,3:309,3
+56:318
+57,2:319,3
+59,3:325
+62,2:329
+63,8:331
+1#2,37:338
+*E

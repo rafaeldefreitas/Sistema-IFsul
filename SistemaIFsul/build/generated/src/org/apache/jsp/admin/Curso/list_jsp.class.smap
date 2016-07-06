@@ -1,0 +1,28 @@
+SMAP
+list_jsp.java
+JSP
+*S JSP
+*F
++ 0 list.jsp
+admin/Curso/list.jsp
++ 1 cabecalho.jsp
+admin/Curso/../cabecalho.jsp
++ 2 rodape.jsp
+admin/Curso/../rodape.jsp
+*L
+1,4:53
+1#1,3:56
+3,221:59
+4#0:279
+8,7:283
+14,36:290
+49,2:326
+50,3:328
+53,2:331,3
+55:337
+56,2:338,3
+58,3:344
+61,2:348
+62,8:350
+1#2,37:357
+*E
